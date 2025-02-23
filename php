@@ -1,2 +1,2 @@
 sample php
-be good doings
+good doings
